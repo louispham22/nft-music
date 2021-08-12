@@ -1,6 +1,6 @@
 {
     "name": "Single Song",
     "description": "This is single Song NFT.",
-    "image": "https://raw.githubusercontent.com/tunglouis/nft-music/master/music/single.jpg",
-    "amount": 1
+    "image": "https://raw.githubusercontent.com/tunglouis/nft-music/main/music/single.jpg",
+    "amount": 20
 }

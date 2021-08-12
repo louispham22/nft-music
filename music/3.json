@@ -1,6 +1,6 @@
 {
     "name": "Album NFT",
     "description": "This is Album NFT.",
-    "image": "https://raw.githubusercontent.com/tunglouis/nft-music/master/music/album.jpg",
-    "amount": 10
+    "image": "https://raw.githubusercontent.com/tunglouis/nft-music/main/music/album.jpg",
+    "amount": 1
 }

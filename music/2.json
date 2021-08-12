@@ -1,6 +1,6 @@
 {
     "name": "Mini Album",
     "description": "This is Mini Album NFT.",
-    "image": "https://raw.githubusercontent.com/tunglouis/nft-music/master/music/mini.jpg",
-    "amount": 4
+    "image": "https://raw.githubusercontent.com/tunglouis/nft-music/main/music/mini.jpg",
+    "amount": 10
 }
